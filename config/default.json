@@ -1,0 +1,15 @@
+{
+    "filepath": "data.csv",
+    "mongodb": {
+        "host": "localhost",
+        "port": "27017",
+        "db": "kelp"
+    },
+    "postgres": {
+        "hostName": "localhost",
+        "userName": "postgres",
+        "password": "kamran",
+        "database": "kelp",
+        "dialect": "postgres"
+    }
+}

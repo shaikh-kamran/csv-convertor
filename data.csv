@@ -1,0 +1,3 @@
+name.firstName, name.lastName, age, address.line1.main, address.line2, address.city, address.state, gender
+Mohit, Prasad, 66, A-563 Rakshak Society, New Pune Road, Pune, Maharashtra, male
+Kamran, Shaikh, 45, B-563 Yhana Society, New Mumbai Road, Mumbai, Maharashtra, male
